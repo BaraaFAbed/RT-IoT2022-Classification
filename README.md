@@ -8,5 +8,5 @@ The dataset is very imbalanced; therefore, oversampling (SMOTE) and undersamplin
 
 ![image](https://github.com/BaraaFAbed/RT-IoT2022-Classification/assets/144244123/36321055-a033-4168-b3a3-b5fa37f6c089)
 
-For a more in depth look at the project, check the report (`report.pdf`)
+For a more in-depth look at the project, check the report (`report.pdf`)
 
